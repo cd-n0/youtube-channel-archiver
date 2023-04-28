@@ -1,0 +1,7 @@
+# Write channel ID's of channels you want here line by line
+# you can comment by adding a pound sign at the start of the line
+
+# Example:
+
+# 1O4
+UCZJ0QFFEZPZdMVw13GjDgqQ
