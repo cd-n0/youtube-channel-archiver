@@ -2,13 +2,16 @@
 
 ## Usage
 
+I strongly suggest using a virtual enviroment  
+you can generate a virtual enviroment with the command
 ```
-pip install yt-dlp
+python -m venv <virtual enviroment name (people generally use venv)>
+```
+after that you can use the enviroment's binaries generated in `<venv directory name>/bin/{pip, python}`  
+for a more comprehensive explanation refer to the [documentation](https://docs.python.org/3/library/venv.html)
 
-or
-
+```
 pip install -r requirements.txt
-
 ```
 Add the channels you want to the channel_list.txt
 
@@ -28,9 +31,9 @@ or
 4. The string after the equal sign is the channel ID of the channel
 
 ### Goals
-[] Option for downloading livestreams
-[] Saving the community tab
-[] Make a web interface
+- [ ] Option for downloading livestreams
+- [ ] Saving the community tab
+- [ ] Make a web interface
 
 ### The script is mostly commented explaining what the lines are doing  
 
