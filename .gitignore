@@ -1,0 +1,4 @@
+# Dotenv
+.env
+# Virtual enviroment
+venv/
